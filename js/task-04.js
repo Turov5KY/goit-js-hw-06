@@ -18,4 +18,3 @@ const decrement = () => {
 
 refs.add.addEventListener('click', increment);
 refs.delete.addEventListener('click', decrement);
-
